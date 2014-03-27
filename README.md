@@ -1,6 +1,7 @@
 # ZappyLab Objective-C Style Guide
 
 This style guide outlines the coding conventions of the iOS team at ZappyLab. It's based on [NYTimes' guide](https://github.com/NYTimes/objective-c-style-guide)
+We also have predefined code style settings for AppCode. To use it, just copy `ZappyLab.xml` to `/Users/<your_user_name>/Library/Preferences/<AppCode dir>/codestyles/`, restart AppCode, go to `Preferences -> Code Style`, and select `ZappyLab` scheme.
 ## Introduction
 
 Here are some of the documents from Apple that informed the style guide. If something isn't mentioned here, it's probably covered in great detail in one of these:
